@@ -141,10 +141,19 @@ body{
     background-position: 50%;
     color: #fefdfd;
     border: 0;
-    padding: 30px 82px 40px 65px;
-    font-size: 15px;
+    padding: 30px 30px 40px 42px;
+    font-size: 20px;
 }
-
+#hero a:link {
+    text-decoration: none;
+    color: #fefdfd;
+}
+#hero a:hover {
+    background-position: 0%;
+    color:#e77fa8;
+    font-size: 25px;
+    font-size-adjust: -10px;
+}
 /* Shop section customisation */
 
 /* Individual Product section customisation */
