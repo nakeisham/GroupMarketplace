@@ -51,7 +51,7 @@ body{
 
 /* Header section customisation */
 .logo{
-    height: 20%;
+    height: 10%;
     width: 20%;
 }
 
@@ -154,6 +154,7 @@ body{
     font-size: 25px;
     font-size-adjust: -10px;
 }
+
 /* Shop section customisation */
 
 /* Individual Product section customisation */
