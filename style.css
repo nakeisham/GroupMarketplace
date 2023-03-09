@@ -251,6 +251,44 @@ body{
     font-size: 15px;
 }
 
+#feature{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#feature .fea-box {
+width: 180px;
+text-align: center;
+padding: 25px 15px;
+box-shadow: 20px 20px 34px rgba(0,0,0, 0.03);
+border: 1px solid #E3E6F3;
+border-radius: 4px;
+margin: 15px 0;
+}
+
+#feature .fea-box:hover{
+    box-shadow: 10px 10px 54px rgba(208, 236, 26, 0.792);
+}
+
+#feature .fea-box img{
+    width: 100%
+    margin-bottom: 10px;
+    
+}
+
+
+#feature .fea-box h6{
+    padding: 9px 8px 6px 8px  ;
+    line-height: 1;
+    border-radius: 4px;
+    color: #102c3d;
+    background-color: #e8f374;
+}
+
+
+
 /* Shop section customisation */
 #banner {
     background-image: url("img/1054256.jpg");
