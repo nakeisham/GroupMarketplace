@@ -396,6 +396,165 @@ margin: 15px 0;
 
 
 /* Productlist section customisation */
+.fonts {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.boxModel {
+    background-color: #d8caeb;
+    height: auto;
+    padding: 20px;
+    border: 1px solid #371c6e;
+    margin-bottom: 20px;
+    width: 320px
+}
+
+.boxModel a {
+    text-decoration: none;
+}
+
+.boxModel h5 {
+    border-bottom: 2px #9a30fe solid;
+    padding-bottom: 15px;
+    margin: auto;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.boxModel form {
+    margin-bottom: 20px;
+}
+
+.text-muted {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: #333333;
+}
+
+.font {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.brand {
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+
+}
+
+.colourBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.colourBox div:nth-child(1) {
+    width: 20px;
+    height: 20px;
+    background-color: #a317e3;
+    cursor: pointer
+}
+
+.colourBox div:nth-child(2) {
+    width: 20px;
+    height: 20px;
+    background-color: #ca2ede;
+    cursor: pointer
+}
+
+.colourBox div:nth-child(3) {
+    width: 20px;
+    height: 20px;
+    background-color: #ff0055;
+    cursor: pointer
+}
+
+.colourBox div:nth-child(4) {
+    width: 20px;
+    height: 20px;
+    background-color: #6600ff;
+    cursor: pointer
+}
+
+.colourBox div:nth-child(5) {
+    width: 20px;
+    height: 20px;
+    background-color: #0008ff;
+    cursor: pointer
+}
+
+.sizebox {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    Justify-content: flex-start;
+}
+
+.sizebox div:nth-child(1) {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #561188;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.sizebox div:nth-child(2) {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #561188;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.sizebox div:nth-child(3) {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #561188;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.sizebox div:nth-child(4) {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #561188;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.sizebox div:nth-child(5) {
+    width: 40px;
+    height: 30px;
+    border: 2px solid #561188;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+}
+
+.sizebox div:nth-child(1):hover,
+.sizebox div:nth-child(2):hover,
+.sizebox div:nth-child(3):hover,
+.sizebox div:nth-child(4):hover,
+.sizebox div:nth-child(5):hover {
+    background-color: #561188;
+    color: fff;
+    transition: all .5s ease;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 /* Individual Product section customisation */
