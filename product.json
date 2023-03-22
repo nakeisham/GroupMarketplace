@@ -1,0 +1,1161 @@
+{
+  "products": {
+    "fashion": [
+      {
+        "data": [
+          {
+            "title": "Paisley Scarf Print Skirt",
+            "href": "img/PaisleyScarfPrintSkirt.jpg",
+            "description": "Color:Red, Style:Boho Pattern Type:Tribal, Scarf Print, Material: 100% Polyester, Type:Womenswear",
+            "price": 17.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Floral Print Cami Dress",
+            "href": "img/Floral Print Ruched Bust Split Thigh Cami Dress.jpg",
+            "description": "Color:Black, Style:Boho, Pattern Type:Floral Material:96% Polyester, 4% Elastane, Type:Womenswear",
+            "price": 13.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Hem Crop Tee",
+            "href": "img/HemCropTee.jpg",
+            "description": "Color:Multicolor, Style:Casual, Pattern Type:Graphic, Material:91% Polyester, 9% Elastane, Type:Womenswear",
+            "price": 7.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Cargo Parachute Trousers",
+            "href": "img/CargoParachuteTrousers.jpg",
+            "description": "Color:Black, Style:Casual, Pattern Type:Plain, Material:100% Polyamide,Type:Menswear",
+            "price": 12.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Coconut Tree Top",
+            "href": "img/Coconut Tree Top.jpg.jpg",
+            "description": "Color:Mint Green, Style:Casual, Pattern Type:Tropical, Material:65% Polyester, 35% Viscose, Type:Menswear",
+            "price": 6.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Denim Shorts",
+            "href": "img/DenimShorts.jpg",
+            "description": "Color:Light Wash, Style:Casual, Pattern Type:plain, Material:55% Cotton, 30% Polyester, 14% Viscose, 1% Elastane, Type:Menswear",
+            "price": 7.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Half Zip Flannelette Sweatshirt",
+            "href": "img/HalfZipFlanneletteSweatshirt.jpg",
+            "description": "Color:purple, Style:Casual, Pattern Type:Graphic, Material:100% Polyester, Type:Menswear",
+            "price": 20.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Pocket Patched Shirt & Trousers",
+            "href": "img/PocketPatchedShirtTrousers.jpg",
+            "description": "Color:Khaki, Style:Casual, Pattern Type:Plain, Material:Non-Stretch, Type:Menswear",
+            "price": 17.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Cam Mesh Skirt",
+            "href": "img/CamTopContrastMeshSkirt.jpg",
+            "description": "Color:Coffee Brown, Style:Elegant, Pattern Type:Contrast Mesh, Material:90% Viscose, 10% Elastane, Type:Womenswear",
+            "price": 30.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Isla T-shirt",
+            "href": "img/ISLA T-SHIRT.jpg",
+            "description": "Round neckline, Short-sleeved, Oversize fit, Boxy silhouette, Twisted drape effect,'Ermine Stripes' artwork, Mushroom embroidery",
+            "price": 250.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Loose Waistband Infinity Skirt Boucher",
+            "href": "img/LOOSEWAISTBANDINFINITYSKIRTBOUCHER.jpg",
+            "description": "Button and zip fastening,Orb-engraved hardware,Mini-length design, Asymmetric hem, Contrasting topstitching,'Daphnis and Chloe' artwork",
+            "price": 200.49
+          }
+        ]
+      }
+      
+    ],
+    "games": [
+      {
+        "data": [
+          {
+            "title": "The Last Of Us Part II",
+            "href": "img/TLOU-part2.JPG",
+            "description": "You must face the terrible physical and emotional effects of Ellie's actions as she seeks revenge following a horrifying violent tragedy.You must face the terrible physical and emotional effects of Ellie's actions as she seeks revenge following a horrifying violent tragedy. See the growing moral tensions caused by Ellie's unrelenting quest for retribution. The cycle of violence she leaves behind will make you reevaluate your ideas of right and wrong, good and evil, and hero and villain. Start Ellie's trip, which will take her from Jackson's tranquil mountains and woodlands to greater Seattle's lush, overgrown ruins. Discover new survivor communities, perilous landscapes, and horrific diseased evolutions. The dangerous characters and world are more lifelike and painstakingly detailed than ever thanks to the most recent version of the Naughty Dog technology.",
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "The Last Of Us Part I PS5 ",
+            "href": "img/TLOU-part2.JPG",
+            "description": "Experience the cherished title that began it all, remade for the PlayStation 5 system. Discover The Last of Us' moving tale and compelling characters, which have earned it over 200 Game of the Year awards. Joel, the worn-out main character, is recruited to transport 14-year-old Ellie out of a military quarantine zone in a world where sick and tough survivors are widespread. But what begins as a simple task quickly develops into a torturous cross-country odyssey. Improved visuals: The Last of Us has been faithfully improved with more realistic lighting and mood, more elaborate locations, and innovative reworking of familiar spaces. It has been completely rebuilt from the ground up using Naughty Dog's most recent PS5 engine technology.",
+            "price": 64.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Devil May Cry 5",
+            "href": "img/devil-may-cry5.JPG",
+            "description": "In Devil May Cry 5, the familiar devil is back! The return of elegant action in its prime may be seen in Devil May Cry 5. Years have passed since the events of Devil May Cry 4, and a lot has transpired. Nero, a young demon hunter, has lost the arm of the Devil Bringer demon, but hey! He is currently in charge of his own division of the Devil May Cry demon-hunting company. He's enlisted the assistance of skilled craftswoman Nico, a brand-new character in the game, to lend a hand and develop various forms of prosthetic limbs that unlock new lethal combat talents and devastating powers, in order to make up for that lost arm and maintain his style rankings.",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "God Of War Ragnarok PS4",
+            "href": "img/GOW-ragnarok.JPG",
+            "description": "Join Kratos and Atreus on an epic and emotional journey as they struggle with holding on and letting go. They have made every effort to prevent the end times from occurring while the Norse Realms are being torn apart by the Aesir's rage. Fimbulwinter nevertheless continues on despite their best attempts. You too will be forced to witness how fate will force them to decide between choosing their personal safety or the safety of the realms. Meanwhile, enemy Asgardian armies are assembling.",
+            "price": 54.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Little Nightmares 2",
+            "href": "img/littlenightmare2.JPG",
+            "description": "In Little Nightmares II, a suspenseful adventure game, you take control of Mono, a small child stuck in a world that has been warped by the humming broadcast of a faraway Tower. Little Nightmares 2 will transport you back to a world of endearing terror. Mono sets out to uncover the terrible secrets of the signal Tower with the assistance of six, the young woman in the yellow raincoat. The horrible inhabitants of this world will provide Mono and Six with a number of new hazards on their difficult quest. Can you dare to confront this assortment of brand-new, miniature nightmares?",
+            "price": 14.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Persona 5 Royal Xbox One & Xbox Series X",
+            "href": "img/persona5royal.JPG",
+            "description": "Get ready for the acclaimed RPG experience in Persona 5 Royal's definitive version, which includes a wealth of downloadable content! The main character, who must move to a high school in Tokyo, has an odd dream. You are a true captive of destiny. Ruin is just around the corner for you. He must put on the mask of a Phantom Thief in order to protect others from distorted desires with the aim of rehabilitation hanging over his head.",
+            "price": 47.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Final Fantasy VII remake (PS4)",
+            "href": "img/finalfantasy7.JPG",
+            "description": "The Shinra Electric Power Company, a mysterious organisation in charge of the planet's very life force known as mako energy, has taken over control of the entire globe. An anti-Shinra organization going by the name of Avalanche has stepped up their opposition in the large city of Midgar. Unaware of the monumental repercussions that lie in store for him, Cloud Strife, a former soldier in Shinra's elite SOLDIER squad who has since become a mercenary, offers his assistance to the group.",
+            "price": 25.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Cyberpunk 2077",
+            "href": "img/cyberpunk.JPG",
+            "description": "An open-world action-adventure tale, Cyberpunk 2077 takes place in a megalopolis obsessed with power, glamour, and body modification called Night City. You take on the role of V, a mercenary outlaw searching for a unique implant that holds the secret to longevity. The cyberware, skill set, and playstyle of your character can all be customised as you explore a huge metropolis and make decisions that affect the plot and the world around you. Build your Legend on the streets of the night city by playing as a cyberpunk urban mercenary armed with cybernetic enhancements.",
+            "price": 14.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "God of War",
+            "href": "img/GOW.JPG",
+            "description": "Kratos now resides in the world of Norse gods and creatures after having taken his revenge on the Gods of Olympus. He must struggle to live in this harsh, unforgiving world in order to not only teach his son to do the same but also to keep him from making the same bloody errors as the Ghost of Sparta. The famous series' hallmarks—brutal combat, epic boss battles, and breathtaking scale—are all present in this breathtaking reimagining of God of War, which also incorporates a compelling and moving story that re-establishes Kratos' world.",
+            "price": 15.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Crisis Core: Final Fantasy VII Reunion",
+            "href": "img/finalfantasyVII-crisis-core.JPG",
+            "description": "The critically acclaimed precursor to Final Fantasy VII, Crisis Core: Final Fantasy VII Reunion, was remastered in HD. A dynamic new retelling of a well-loved classic is created by completely voiced dialogue, new soundtrack arrangements, and HD remastered visuals throughout. Crisis Core: Final Fantasy VII Reunion tells the tale of Zack Fair, a young warrior who is adored by the girl who holds the future of the planet in her hands and trusted by men known as legendary heroes. Zack Fair is a young warrior who is destined to save the world. In this epic tale that exceeds the capabilities of an HD remaster, the story of Zack's dreams and the heritage of honour that binds him to Cloud is fully revealed.",
+            "price": 34.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title":"Resident Evil 4",
+            "href": "img/residentevil4.JPG",
+            "description": "Resident Evil 4 is a recreation of the 2005 video game Resident Evil 4. Resident Evil 4, which was revived for 2023, maintains the core of the original while utilising Capcom's exclusive RE Engine to deliver updated gameplay, a reworked plot, and exquisitely detailed visuals.",
+            "price": 54.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Little Nightmares",
+            "href": "img/littlenightmare.JPG",
+            "description": "A monster-filled dollhouse traps you inside; use light to navigate through the night, conceal and sneak to stay safe, and run for your life to find a way out.",
+            "price": 9.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Legend of Zelda: Breath of the Wild ",
+            "href": "img/zedal.jpg",
+            "description": "The largest Zelda adventure to date, Legend of Zelda: Breath of the Wild pushes limits while paying homage to the series' beginnings. Discover more than 100 puzzle-filled shrines as you explore an universe of unprecedented size.",
+            "price": 47.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Animal Crossing: New Horizons ",
+            "href": "img/animalcrossing.jpg",
+            "description": "Just over there is a carefree new existence! On your very own deserted island, where new acquaintances, discoveries, and chances await you, step off the plane. In Animal Crossing: New Horizons for the Nintendo Switch, paradise is your creation! Life will start off a little primitive with nothing but a tent and your dependable new NookPhone. Be at ease, though! The island can be transformed into a place you're proud to name home with a little hard work. As they say, there is only one way to get things perfect: do it yourself!",
+            "price": 39.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Mario Kart 8 Deluxe",
+            "href": "img/mariokart.jpg",
+            "description": "With four different multiplayer modes, enjoy Mario Kart 8 wherever you are, whenever. On a single Switch, 4 people can participate. Play with online multiplayer all over the globe. Using Local Wireless Play, you can play on up to 8 Switch devices. Or set up 12 devices in TV mode via LAN. includes all 36 characters from the Wii U edition, along with King Boo, Dry Bones, Inkling Boy, and Inkling Girl from Splatoon, and Bowser Jr.",
+            "price": 39.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Grand Theft Auto V ",
+            "href": "img/GTA5.jpg",
+            "description": "Young street hustlers, former bank robbers, and terrifying psychopaths must pull off a series of risky heists to survive in a brutal city where they can't trust anyone, least of all each other. They become involved with some of the most terrifying and deranged figures in the criminal underworld, the US Government, and the entertainment industry.",
+            "price": 29.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Resident Evil 2 Remake",
+            "href": "img/residentevil2.JPG",
+            "description": "Resident Evil 2, a masterpiece that defined a genre, is back and has been fully rebuilt from the ground up for a richer narrative experience. With breathtakingly realistic visuals, heart-poundingly immersive audio, a new over-the-shoulder camera, and modernised controls in addition to gameplay options from the first game, Resident Evil 2 offers a fresh take on the classic survival horror saga.The Resident Evil series' trademark action, tense adventure, and puzzle-solving gameplay is back in Resident Evil 2. Players take on the roles of college student Claire Redfield and rookie police officer Leon Kennedy, who are thrown together as a result of a terrible outbreak in Raccoon City that turned its populace into lethal zombies.",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Elden Ring",
+            "href": "img/eldenring.jpg",
+            "description": "The Golden Way was shattered. Tarnished, rise and be led by grace to wield the Elden Ring's power and become an Elden King in the Lands Between. Elden Ring is a fantasy action-RPG and FromSoftware's biggest game to date, created by FromSoftwareInc. and published by BANDAI NAMCO Entertainment Inc. It is set in a dangerous and mysterious world. Hidetaka Miyazaki, the famous Dark Souls video game series' creator, and George R. R. Martin, the author of The New York Times best-selling fantasy series, have developed a new fantasy world called Journey through the Lands Between.",
+            "price": 49.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Resident Evil 7 Biohazard (PS4)",
+            "href": "img/residentevil7.JPG",
+            "description": "The highly regarded Resident Evil series' upcoming significant instalment coming to next-generation consoles, Windows PC, and PlayStation VR, which is coming to next-generation consoles, Windows PC, and PlayStation VR, makes a dramatic new shift. Returning to the series' origins, Resident Evil 7 biohazard will offer an experience resembling the series' signature gameplay, including exploration, puzzles, and a realistic, tense atmosphere for players to encounter, but will also completely revamp the gameplay systems to elevate the survival horror experience. Visceral terror that is immersive",
+            "price": 17.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Resident Evil Village",
+            "href": "img/residentevilvillage.JPG",
+            "description": "The Resident Evil Plot Enters a New Chapter - The narrative from Resident Evil 7 Biohazard is continued in this eighth major instalment of the venerable Resident Evil franchise. The intensity of survival horror has never been higher tha,nks to the introduction of fresh components and the return of old favourites.",
+            "price": 24.99
+          }
+        ]
+      }
+    ],
+    "health_and_beauty": [
+      {
+        "data": [
+          {
+            "title": "Cerave Cleanser",
+            "href": "img/cerave.jpg",
+            "description": "The CeraVe Hydrating cleanser was created in collaboration with dermatologists, and its mild, non-foaming gel composition gently cleanses the face while removing excess dirt and makeup. with hyaluronic acid to keep the moisture in the epidermis.",
+            "price": 15.49
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Gloss Bomb Heat Universal Lip Luminzer + Plumber",
+            "href": "img/GLOSSBOMB .jpg",
+            "description": "Hybrid lip gloss and plumper delivers a hint of tint and fuller-looking lips.",
+            "price": 15.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Revolution 5D Whip Lift Mascara",
+            "href": "img/Mascara.jpg",
+            "description": "Introducing the 5D Whip Lift Mascara, Revolution’s best mascara yet for long, lifted lashes - no salon needed!",
+            "price": 8.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Drunk Elephant Protini Polypeptide Cream",
+            "href": "img/ProtiniPolypeptideCream.jpg",
+            "description": "Drunk Elephant's Protini Polypeptide Cream provides plumping moisture, helping to restore skin's balance and bounce. It's like adding a protein shot to your smoothie but for skincare. Nine signal peptides are added to the proprietary recipe to boost skin firmness and reduce the appearance of fine lines and wrinkles.",
+            "price": 47.20
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Omega+ Complex Serum",
+            "href": "img/ComplexSerum.jpg",
+            "description": "Feed your face with this nourishing serum, which is a good source of ceramides, powerful antioxidants, and omega fatty acids. The lightweight serum, which has the texture of a lotion, immediately strengthens, repairs, and replenishes the skin's natural barrier for skin that is healthier, younger-looking, and more supple. Excellent for skin that is dry, dehydrated, and has lost its vibrancy.",
+            "price": 37.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "E.L.F. Halo Glow Liquid Filter 3 Light/Medium ",
+            "href": "img/elfglow.jpg",
+            "description": "What Is It: A Multi-Purpose, Liquid Glow Booster Infused With Skin-Loving Ingredients To Give Your Complexion A Soft-Focus Social Filter Effect Irl.",
+            "price": 13.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Urban Decay Robin Eisenberg Palette",
+            "href": "img/UrbanDecay.jpg",
+            "description": "Urban Decay Naked x Robin Eisenberg Eyeshadow Palette Limited-edition vegan eyeshadow palette.",
+            "price": 40.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Studio London Colour Icon Stripped Back Eyeshadow Palette",
+            "href": "img/Studio London Colour.jpg",
+            "description": "With the Studio London Colour Icon Stripped Back Eyeshadow Palette, indulge in nine beautiful, natural colours. For delicate daily looks or elegant smokey finishes that amp up the drama, the infinite combos possible with the seamlessly blendable matte and shimmer shades are endless.",
+            "price": 5.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Maybelline Hyper Precise Liquid Eyeliner Black",
+            "href": "img/MaybellineHyper.jpg",
+            "description": "Master flow with our exclusive ultra-thin 0.4mm brush tip applies continuous flow for smooth, even, perfected lines. No mess or excess. Master Intensity with our ink technology that keeps pigment saturated.Spring cap keeps the formula fresh.",
+            "price": 4.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Paula's Choice 5% Niacinamide Body Serum",
+            "href": "img/5%-Niacinamide-Body-Serum.jpg",
+            "description": "Forget about using your typical body lotion; this body serum with active components will help with more complex body care issues. Use our non-greasy body serum to efficiently hydrate skin and repair hair removal damage. While 5% d-panthenol (vitamin B5) and prickly pear extract rebuild the skin's moisture barrier and fade stubborn discoloration, respectively, niacinamide (vitamin B3) helps to even out skin tone. ",
+            "price": 33.90
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Paula's Choice Skin Recovery Serum",
+            "href": "img/paulaschoice.jpg",
+            "description": "To protect skin and reduce obvious signs of aging, this high-performance serum contains a concentrated blend of antioxidants, nourishing plant oils, and retinol. It nourishes and replenishes dry skin, leaving it smooth, hydrated, and glowing. It has a luxuriously thick texture.",
+            "price": 35.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Paula's Choice Skin Recovery Cleanser",
+            "href": "img/Paula's-Choice-Skin-Recovery-Cleanser.jpg",
+            "description": "This luxurious, delicate, and efficient face cleanser is made for extremely dry and delicate skin. Without stripping your face, it removes makeup and impurities completely. Meanwhile, hydrating ingredients make your skin feel softer and smoother.",
+            "price": 22.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Paula's Choice Clinical Discoloration Repair Serum",
+            "href": "img/Clinical-Discoloration-Repair-Serum.jpg",
+            "description": "A powerful yet gentle formula, Clinical Discoloration Repair Serum, clearly reduces multiple discolorations, including brown and grey patches and dark spots brought on by sun damage.",
+            "price": 48.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "L'oreal Paris Telescopic Lift Black Mascara",
+            "href": "img/L'oreal-Paris-Telescopic-Lift Black-Mascara.jpg",
+            "description": "Introducing the Telescopic Lift Mascara from L'Oreal Paris. Take your lashes to the next level with a 24 hour lift and lashes that appear up to 5mm longer. With an exclusive two-sided brush, the curved bristles capture lashes from root to tip while the flat side allows for closer application to the eyeline.",
+            "price": 10.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Revolution Ceramide Fix Fixing Spray",
+            "href": "img/Revolution-Ceramide-Fix-Fixing-Spray.jpg",
+            "description": "Meet the latest addition to the 'FIx' family; introducing the Ceramide Fix fixing spray! This fixing spray is enriched with skin loving ceramides and hyaluronic acid.",
+            "price": 10.98
+          }
+        ]
+      }
+    ],
+    "electronics": [
+      {
+        "data": [
+          {
+            "title": "Sony WH-1000XM4 Noise Cancelling Wireless Headphone",
+            "href": "img/sony-headphones.jpg",
+            "description": "",
+            "price": 220.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Playstation 4 PRO Console 1TB",
+            "href": "img/pspro.jpg",
+            "description": "",
+            "price": 219.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Canon EOS 4000D DSLR Camera and EF-S 18-55 mm f/3.5-5.6 III Lens",
+            "href": "img/CanonEOS.jpg",
+            "description": "",
+            "price": 300.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "SONY PlayStation 5 Digital Edition",
+            "href": "img/PlayStation5-Digital-Edition.jpg",
+            "description": "",
+            "price": 345.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Echo Dot",
+            "href": "img/EchoDot.jpg",
+            "description": "",
+            "price": 64.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "POWEROWL AAA Rechargeable Batteries 16 Pack,",
+            "href": "img/POWEROWL-AAA-Rechargeabl- Batteries16Pack.jpg",
+            "description": "",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "RCA 32 inch TV ",
+            "href": "img/RCA 32 inch TV.jpg",
+            "description": "",
+            "price": 89.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Fire TV Stick 4K ",
+            "href": "img/Fire-TV-Stick-4K .jpg",
+            "description": "",
+            "price": 59.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Toshiba 43 Inch Smart Fire TV",
+            "href": "img/Toshiba-43-Inch-Fire-TV.jpg",
+            "description": "",
+            "price": 239.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Fire HD 8 Tablet",
+            "href": "img/Fire-HD-8-Tablet.jpg",
+            "description": "",
+            "price": 89.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Smart Watch",
+            "href": "img/SmartWatch.jpg",
+            "description": "",
+            "price": 19.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "DAB/DAB+ & FM Radio",
+            "href": "img/DABDABFMRadio.jpg",
+            "description": "",
+            "price": 31.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Anker Soundcore Speaker",
+            "href": "img/Anker.jpg",
+            "description": "",
+            "price": 30.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Samsung Galaxy M13",
+            "href": "img/SamsungGalaxy.jpg",
+            "description": "",
+            "price": 129.99
+          }
+        ]
+      }
+    ],
+    "home": [
+      {
+        "data": [
+          {
+            "title": "Wall mirror",
+            "href": "img/wall-mirror.jpg",
+            "description": "",
+            "price": 20.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Chessboard Print Duvet Cover Set",
+            "href": "img/Chessboard.jpg",
+            "description": "",
+            "price": 25.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": " LED Strip Light With Remote Control",
+            "href": "img/LEDlights.jpg",
+            "description": "",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Remote Control Table Lamp",
+            "href": "img/TableLamp.jpg",
+            "description": "Color:Multicolor,Charger Certification: CE, FCC",
+            "price": 25.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Mini 7 Color Modes Led Humidifier",
+            "href": "img/Humidifier.jpg",
+            "description": "Type:Humidifier Power Supply:Rechargeable Color:Dark Grey Batteries Included:No",
+            "price": 10.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Multifunction Calculator",
+            "href": "img/Calculator.jpg",
+            "description": "Type:Calculator, Power Supply:Battery Powered (batteries included) Color:Pink Batteries Included:Yes",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": " 12pcs/set Aluminum Crochet Needle",
+            "href": "img/Crochet-Needle.jpg",
+            "description": "Color:MulticolorMaterial:Aluminum",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Heart Shaped Silicone Mold",
+            "href": "img/Silicone.jpg",
+            "description": "Color:Chocolate Brown Material:Silicone",
+            "price": 5.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Figure Shaped Plant Pot",
+            "href": "img/PlantPot.jpg",
+            "description": "Color:White, Material:ABS",
+            "price": 9.50
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": " Geometric Pattern Door Mat",
+            "href": "img/DoorMat.jpg",
+            "description": "Color:Multicolor, Material:Polyester",
+            "price": 5.75
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Clear Water Bottle",
+            "href": "img/ClearWaterbottle.jpg",
+            "description": "Color:Clear, Material:Plastic",
+            "price": 5.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Tea Storage Fruit Cup",
+            "href": "img/Fruit-Cup.jpg",
+            "description": "Color:Multicolor, Material:Plastic",
+            "price": 7.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Digital Food Measuring Thermometer",
+            "href": "img/Thermometer.jpg",
+            "description": "Color:White. Material:Plastic, Charger Certification:FCC, CE.Batteries Included:Yes, Power Supply:Battery",
+            "price": 5.59
+          }
+        ]
+      }
+    ],
+    "sport": [
+      {
+        "data": [
+          {
+            "title": "Puma Performance Water Bottle",
+            "href": "img/waterbottle.jpg",
+            "description": "The Puma Performance Water Bottle is ideal for your upcoming workout. It is designed with a sports top that makes it simple to stay hydrated while you're on the go, a rubber insert in the centre that makes it easy to handle, and the iconic Puma branding.",
+            "price": 6.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Everlast Medicine Ball",
+            "href": "img/MedicineBall .jpg",
+            "description": "Improve your exercise routine with this Everlast Medicine Ball. It has textured panels for better grip, a weighted design that will strengthen your core, and Everlast branding to finish the appearance.",
+            "price": 20.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Everlast Skipping Rope",
+            "href": "img/Skipping Rope.jpg",
+            "description": "With this Everlast Skipping rope, you'll never miss skipping day. With this essential accessory, you can improve your athletic performance anywhere. Leap about!",
+            "price": 3.95
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Everlast Kettlebell",
+            "href": "img/Everlast-Kettlebell.jpg",
+            "description": "Available in a range of weights the Everlast kettle bell features a wide grip comfort handle for smooth movements as well as a vinyl coated base. This is the ultimate exercise companion you need to add to your workout. Please note: The colour you receive may vary from the image shown",
+            "price": 24.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Everlast Adjustable Dumbbell",
+            "href": "img/Adjustable-Dumbbell.jpg",
+            "description": "Build, strengthen and tone your entire body, with the Everlast Adjustable Dumbbell. Removing the need for a full rack of dumbbells, this dumbbell can change from 5kg to 40kg with a twist of the dial at 3kg or 3.5kg increments saving space and money. The dumbbell can be used to train legs with squats and lunges, chest through bench pressing, biceps and triceps with the use of arm curls and tricep extensions and training your back using bent over rows and deadlifts. ",
+            "price": 249.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Under Armour Project Rock Gym Duffle Bag",
+            "href": "img/Duffle-Bag.jpg",
+            "description": "Designed and approved by Dwayne Johnson himself, this duffle bag has been crafted from a lightweight fabrication presented in a solid block colourway for a minimal aesthetic. Designed with a spacious main compartment secured with a full zip fastening accompanied by external pockets perfect for holding your gym essentials or using during short haul travelling, this bag is set upon dual shoulder straps while the detachable crossbody strap allows for versatile styling.",
+            "price": 33.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Karrimor Running Glove Mens",
+            "href": "img/Running-Glove.jpg",
+            "description": "Karrimor Gloves are perfect for keeping your hands toasty because they are lightweight, moisture-wicking, and touch screen compatible. These gloves are perfect for a winter exercise because they feature the iconic Karrimor reflective branding.",
+            "price": 4.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "adidas Linear Duffle 99",
+            "href": "img/Duffle-99.jpg",
+            "description": "",
+            "price": 13.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": " Nike Miler Running Gloves Mens",
+            "href": "img/Miler-Running-Gloves.jpg",
+            "description": "Karrimor Gloves are perfect for keeping your hands toasty because they are lightweight, moisture-wicking, and touch screen compatible. These gloves are perfect for a winter exercise because they feature the iconic Karrimor reflective branding.",
+            "price": 12.99
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "USA Pro Hand Weight",
+            "href": "img/Hand-Weight.jpg",
+            "description": "The USA Pro Hand Weights, which have a soft ergonomic handle for additional comfort, are the ideal complement to your exercise classes and gym sessions. The USA Pro logo is on the side of this hand-held weight, giving it a fantastic appearance.",
+            "price": 3.50
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Under Armour Tech half Zip T Men's",
+            "href": "img/Under-Armour-Tech.jpg",
+            "description": "",
+            "price": 18.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "USA Pro 7/8 Leggings Womens",
+            "href": "img/Leggings-Womens.jpg",
+            "description": "The Womens USA Pro 7/8 Leggings are a wonderful addition to your workout collection. They feature flat lock stitching and an elasticized waistband for all-day comfort. A solid colour and the USA Pro logo on the hip complete the design. Follow the care label directions for machine washing. ",
+            "price": 22.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "USA Pro Training Tights Junior Girls",
+            "href": "img/training-tights .jpg",
+            "description": "The USA Pro training tights allow youngsters to exercise in flair. These pants are made with an elasticized waistband and have a close-fitting stretch finish that make them ideal for working out in. ",
+            "price": 13.00
+          }
+        ]
+      },
+      {
+        "data": [
+          {
+            "title": "Adidas Mens Football Sereno 19 Tracksuit",
+            "href": "img/19-Tracksuit.jpg",
+            "description": "The Climalite fabric in this timeless Men's adidas Sereno Tracksuit wicks sweat away from the skin to keep you feeling dry and comfortable whether you're wearing it every day or before your major game. The bottoms of this tracksuit have an elasticized waist and drawstring closure, and the full zip top completes the stylish appearance.",
+            "price": 47.99
+          }
+        ]
+      }
+    ],"books": [
+        {
+          "data": [
+            {
+              "title": "Attack On Titan: Volume 1",
+              "href": "img/AttackOnTitanVol1.jpg",
+              "description": "Several hundred years ago, humans were nearly exterminated by giants. Giants are typically several stories tall, seem to have no intelligence and who devour human beings. A small percentage of humanity survied barricading themselves in a city protected by walls even taller than the biggest of giants. Flash forward to the present and the city has not seen a giant in over 100 years - before teenager Elen and his foster sister Mikasa witness something horrific as the city walls are destroyed by a super-giant that appears from nowhere.",
+              "price": 7.58
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Moths",
+              "href": "img/moths.jpg",
+              "description": "A thrilling dystopia, in turns heart-breaking and heart-pounding Forty years ago, the world changed. Toxic threads left behind by mutated moths infected every man and boy, killing them quietly in their sleep, or turning them into crazed killers. No one was safe from their psychopathic wrath and no one could reach them. All seemed hopeless. But humanity, as it does, adapted and society moved on.",
+              "price": 7.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Berserk Deluxe Volume 1",
+              "href": "img/berserk.jpg",
+              "description": "",
+              "price": 47.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Vagabond (VIZBIG Edition), Vol. 1",
+              "href": "img/Vagabond.jpg",
+              "description": "",
+              "price": 15.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Black Paradox",
+              "href": "img/BlackParadox.jpg",
+              "description": "",
+              "price": 15.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Demon Slayer Complete Box Set",
+              "href": "img/Demon Slayer .jpg",
+              "description": "",
+              "price": 98.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Death Note Complete Box Set",
+              "href": "img/deathnote.jpg",
+              "description": "",
+              "price": 99.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "One-Punch Man, Vol. 1",
+              "href": "img/one-punch-man.jpg",
+              "description": "",
+              "price": 7.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Sailor Moon Vol. 1",
+              "href": "img/salormoon.jpg",
+              "description": "",
+              "price": 7.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "JoJo's Bizarre Adventure: Part 1",
+              "href": "img/jojo.jpg",
+              "description": "",
+              "price": 10.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "My Hero Academia Box Set 1",
+              "href": "img/heroAcademia.jpg",
+              "description": "",
+              "price": 98.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Spy x Family, Vol. 1",
+              "href": "img/spyfamily.jpg",
+              "description": "",
+              "price": 7.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "House of Flame and Shadow",
+              "href": "img/HousofFlame.jpg",
+              "description": "",
+              "price": 16.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Bored of Lunch: The Healthy Air Fryer Book",
+              "href": "img/boredoflunch.jpg",
+              "description": "",
+              "price": 9.49
+            }
+          ]
+        }
+      ],"footware": [
+        {
+          "data": [
+            {
+              "title": "Chunky Sneakers",
+              "href": "img/ChunkySneakers.jpg",
+              "description": "",
+              "price": 22.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Summer Heeled Sandals",
+              "href": "img/SummerHeeledSandals.jpg",
+              "description": "",
+              "price": 17.98
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Mens Chelsea Boots",
+              "href": "img/MensChelsea Boots.jpg",
+              "description": "Leather upper, Textile and synthetic upper. Twin elasticated gusset, Heel pull, Man made sole.",
+              "price": 25.99
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Ultra Heeled Loafers",
+              "href": "img/Ultra-Heeled-Loafers.jpg",
+              "description": "",
+              "price": 28.00
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Flatform Penny Loafers",
+              "href": "img/Flatform-Penny-Loafers.jpg",
+              "description": "",
+              "price": 16.25
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Flatform Oxford Shoes",
+              "href": "img/FlatformOxfordShoes.jpg",
+              "description": "",
+              "price": 10.50
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Sporty Sneakers",
+              "href": "img/SportySneakers.jpg",
+              "description": "",
+              "price": 26.40
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Front Skate Shoes",
+              "href": "img/FrontSkateShoes.jpg",
+              "description": "",
+              "price": 17.49
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Combat Boots",
+              "href": "img/CombatBoots.jpg",
+              "description": "",
+              "price": 27.50
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Lace-up Front Oxfords Shoes",
+              "href": "img/Lace-up-Front-Oxfords-Shoes.jpg",
+              "description": "",
+              "price": 18.00
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Buckle Decor Wedge Mary Janes",
+              "href": "img/Mary-Janes.jpg",
+              "description": "",
+              "price": 29.25
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "Men Star Pattern Skate shoes",
+              "href": "img/Skate-shoes.jpg",
+              "description": "",
+              "price": 18.50
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "title": "New Balance black 327 trainers",
+              "href": "img/New-Balance.jpg",
+              "description": "",
+              "price": 110.25
+            }
+          ]
+        }
+      ]
+    
+   
+  }
+}
