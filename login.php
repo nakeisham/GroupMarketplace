@@ -11,10 +11,7 @@ session_start()
     $password = $_POST['password'];
 
     
-    }else
-    {
-        echo "Please enter valid login";
-    }
+ 
   }
 ?>
 
