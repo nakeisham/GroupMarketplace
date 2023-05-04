@@ -45,6 +45,82 @@
       <div style="font-size: 20px;margin: 10px;color: white;">Sign up</div>
       <input id="text" type="text"  name="user_name"><br><br>
       <input id="text" type="password"  name="password"><br><br>
+        
+        
+   <head>
+    <title>Signup</title>
+    <meta charset="UTF-8"
+</head>
+<body>
+    <h1>Sign Up</h1>
+
+    <form action="signupprocess.php" method="post">
+
+        <div>
+        <label for="name">First Name</label>
+        <input type ="text" id="name" name="name">
+        </div>
+
+        <div>
+        <label for="name">Surname</label>
+        <input type ="text" id="name" name="name">
+        </div>
+
+        <div>
+        <label for="studentid"> Student Number</label>
+        <input type ="text" id="name" name="name">
+        </div>
+
+        <div>
+        <label for="email">University Email</label>
+        <input type="email" id="email" name="email">
+        </div>
+
+        <div>
+        <label for="year"> Year of Study</label>
+        <select id="year">
+            <option value="year"> Select year of study</option>
+            <option value="year_1"> Year 1</option>
+            <option value="year_2"> Year 2</option>
+            <option value="year_3"> Year 3</option>
+            <option value="year_4"> Year 4</option>
+            <option value="year_masters"> Masters</option>
+            <option value="year_PhD"> PhD</option>
+        </select>
+        </div>
+
+        <div>
+        <label for="campus"> University Campus</label>
+        <select id="campus">
+            <option value="campus"> Select campus</option>
+            <option value="moulsecoomb"> Moulsecoomb</option>
+            <option value="falmer"> Falmer</option>
+            <option value="city"> City</option>
+            <option value="eastbourne"> Eastbourne</option>
+        </select>
+        </div>
+
+        <div>
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password">
+        </div>
+
+        <div>
+        <label for="password_confirmation">Confirm Password</label>
+        <input type="password" id="password_confirmation" name="password_confirmation">
+        </div>
+
+        <button>Sign Up</button>
+    </form>
+
+    <h2> Why sign up?</h2>
+    <text> 
+
+        To be able to join our community and begin selling and/or buying, we require you to create a login. This ensures a safer site for all users as well as making it more secure. This site is only open to Brighton students & you can even earn free tokens when signing up!
+        
+        </text>
+</body>
+</html>
 
 
       <input id="button" type="submit" value="Sign up"><br><br>
