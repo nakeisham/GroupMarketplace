@@ -59,15 +59,34 @@ session_start()
 
    <form method="post">
       
-      <div style="font-size: 20px;margin: 10px;color: white;">Sign up</div>
-      <input id="text" type="text"  name="user_name"><br><br>
-      <input id="text" type="password"  name="password"><br><br>
+     <?php
+
+if (empty($_POST["name"])) {
+    die("Name is required");
+}
+
+if (strlen($_POST["studentid"]) < 8 ) {
+    die ("Enter valid Student number") ;
+}
+
+if (strlen($_POST["password"]) <10 ) {
+    die ("Password needs to be at least 10 characters") ;
+}
+
+if (preg_match("/[a-z]/i", $_POST["password"])) {
+    die("Password must contain at least one letter");
+}
+
+if (preg_match("/[0-9]/", $_POST["password"])) {
+    die("Password must contain at least one number");
+}
+
+if ($_POST["password]"] !== $_POST["password_confirmation"]) {
+    die("Passwords do not match");
+}
 
 
-      <input id="button" type="submit" value="Sign up"><br><br>
-
-
-      <a href="login.php">Click to login</a><br><br>
+print_r($_POST);
 
 
     </form>
