@@ -6,13 +6,49 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial scale=1.0" />
     <title>My marketplace</title>
+
+    <script src="libs/phaser.js"></script>
+    <script src="game.js"></script>
+    <script src="payout.js"></script>
+    <script src="Icons.js"></script>
+    <script src="animation.js"></script>
+
     <link rel="stylesheet" href="style.css" />
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"/>
 
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,200&display=swap');
-      </style>
+        #slotGame{
+            /* border: 1px solid black; */
+            width: 100%;
+            height: 80%;
+            background-image: url('../Assets/Images/background1.png');
+            background-repeat: repeat;
+        }
+
+        #irons{
+          /* border: 1px solid black; */
+          width: 100%;
+          height: 30%;
+          background-image: url('../Assets/Images/background1.png');
+          background-repeat: repeat;
+          text-align: center;
+          font-family:'helvetica';
+          font-size: 32px;
+        }
+
+        #irons2{
+          /* border: 1px solid black; */
+          width: 100%;
+          height: 200px;
+          background-image: url('../Assets/Images/background1.png');
+          background-repeat: repeat;
+          text-align: center;
+          font-size: 40px;
+          font-family:'helvetica';
+        }
+    </style>
     
   </head>
 
@@ -40,9 +76,11 @@
         <p>Tokens redeemable by game and trading. Up to 20% off</p>
     </section>
 
+    <div id='irons2'><br><br>Token Slot Game</div>
 
+    <div id='slotGame'></div>
 
-    <script src="script.js"></script>
-    <!-- link to javascript file -->
+    <div id='irons'><br>How To Play:<br>Press the right and left arrow keys to toggle the bet amount between 1 and 1000 tokens.<br>Press the enter key to play<br>Payout multipliers are displayed above the game.<br>Earn extra tokens and spins when you purchase items through the website.<br>Token pay-out >= 99%<br><br></div>
+
   </body>
 </html>
