@@ -28,9 +28,6 @@
             if ($user) {
                 if (password_verify($password, $user["password"])) {
                     echo '<script>window.location.href = "dashboard.php";</script>';
-                    // header("Location: dashboard.php");
-                    // session_start();
-                    // $_SESSION["user"] = "yes";
                    
                     die();
                 }else{
