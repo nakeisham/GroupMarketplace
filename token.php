@@ -43,7 +43,7 @@
         <li class="active">
           <a href="token.php">
             <i class="bx bxs-coin-stack"></i>
-            <span class="text">Token</span>
+            <span class="text">Tokens</span>
           </a>
         </li>
         <li>
@@ -51,7 +51,7 @@
             <i class='bx bxs-help-circle'></i>
             <span class="text">Help</span>
           </a>
-			  </li>
+	</li>
       </ul>
       <ul class="side-menu">
         <li>
@@ -105,7 +105,7 @@
             <li>
                 <i class='bx bx-coin-stack' ></i>
                 <span class="text">
-                    <p>Total Token</p>
+                    <p>Total Tokens</p>
                     <h3>1020</h3>
                     
                 </span>
@@ -123,7 +123,7 @@
             <table>
               <thead>
                 <tr>
-                  <th>Token</th>
+                  <th>Tokens</th>
                   <th>Date </th>
                   <!-- <th>Status</th> -->
                 </tr>
