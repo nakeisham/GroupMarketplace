@@ -16,6 +16,51 @@
     <!-- <style>
       @import url("https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,200&display=swap");
     </style> -->
+     <style>
+      
+      .dropdownmenu li:hover a{
+        background: #C3D2FA;
+      }
+       .dropdownmenu ul, .dropdownmenu li{
+        margin:  0;
+        padding: 0;
+      }
+     
+      .dropdownmenu ul{
+        background: gray;
+        list-style: none;
+        width: 100%;
+      }
+      
+      #submenu{
+        left: 0;
+        opacity: 0;
+        position: absolute;
+        top: 30px;
+        visibility: hidden;
+        z-index: 1;
+        
+      }
+      
+      li:hover ul#submenu{
+        opacity: 1;
+        top: 80px;
+        visibility: visible;
+      }
+      
+      #submenu li{
+        float: none;
+        width:100%;
+      }
+      
+      #submenu a{
+        background color: #F0731C;
+      }
+
+        
+         
+          
+    </style>
   </head>
 
   <body>
