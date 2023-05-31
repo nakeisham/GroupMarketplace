@@ -14,6 +14,65 @@
         @import url('https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,200&display=swap');
       </style>
     
+    <style>
+      .dropdownmenu ul, .dropdownmenu li{
+        margin:  0;
+        padding: 0;
+      }
+      
+      .dropdownmenu ul{
+        background: gray;
+        list-style: none;
+        width: 100%;
+      }
+      
+      .dropdownmenu li{
+        float:left;
+        position: relative;
+        width: auto;
+      }
+      
+      .dropdownmenu a{
+        background: #33A5FF;
+        color:white;
+        display:block;
+        font-size: 13px;
+        padding: 15px 55px;
+        text-align: center;
+      }
+      
+      .dropdownmenu li:hover a{
+        background: #C3D2FA;
+      }
+      
+      #submenu{
+        left: 0;
+        opacity: 0;
+        position: absolute;
+        top: 30px;
+        visibility: hidden;
+        z-index: 1;
+        
+      }
+      
+      li:hover ul#submenu{
+        opacity: 1;
+        top: 80px;
+        visibility: visible;
+      }
+      
+      #submenu li{
+        float: none;
+        width:100%;
+      }
+      
+      #submenu a{
+        background color: #F0731C;
+      }
+        
+         
+          
+    </style>
   </head>
 
   <body>
@@ -22,7 +81,8 @@
         <a href="#"><img src="img\cyber.png" class="logo" alt= class></a>
         <div>
             <ul id="navbar">
-              
+            <nav class="dropdownmenu">
+            <ul>
               <li><a  href="index.html">Home</a></li>
                 <li><a title="Search through 100s of items!" href="shop.html">Shop Products</a></li>
                 <li><a class="active" title="Info about the website & how to use it" href="about.html">Help</a></li>
@@ -30,15 +90,15 @@
                 <li><a  title="Want more tokens?" href="tokens.html">Token Currency</a></li>
                 <li><a title="Checkout" href="basket.html"><i class="far fa-shopping-bag"></i></a></li>
                 <li><a href="login.html">Login</a></li>
-                <div class="dropdown">
-                  <button class="profile">Profile</button>
-                <div class="dropdown-content">
-       
-        <a rel="noopener" target="_blank" href="profile.html">View Profile</a>
-        <a rel="noopener" target="_blank" href="myorders.html"> My Orders</a>
-        <a rel="noopener" target="_blank" href="">My Listings</a>
-        <a rel="noopener" target="_blank" href="">Settings</a>
-</div>
+                <li><a href="">Profile</a>
+                  <ul id="submenu">
+                    <li><a href="">View Profile</a></l>
+                    <li><a href="">My Orders</a></l>
+                    <li><a href="">My Listings</a></l>
+                    <li><a href="">Settings</a></l>
+                  </ul>
+                       
+                
 </div>
 </li>
              
