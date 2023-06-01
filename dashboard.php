@@ -46,7 +46,7 @@
             <li>
 				<a href="token.php">
 					<i class='bx bxs-coin-stack'></i>
-					<span class="text">Token</span>
+					<span class="text">Tokens</span>
 				</a>
 			</li>
 			<li>
