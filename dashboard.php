@@ -85,9 +85,11 @@
 			
 			<input type="checkbox" id="switch-mode" hidden>
 			<label for="switch-mode" class="switch-mode"></label>
+			<label class="token-mode"><i class='bx bxs-coin-stack'><span id="text">3000</span></i>
+			</label>
 			
 			<a href="#" class="profile">
-				<img src="img/people.png">
+				<img src="img/people1.png">
 			</a>
 		</nav>
 		<!-- NAVBAR -->
@@ -152,7 +154,7 @@
 						<tbody>
 							<tr>
 								<td>
-									<img src="img/people.png">
+									<img src="img/people1.png">
 									<p>John Doe</p>
 								</td>
 								<td>01-10-2021</td>
@@ -160,34 +162,34 @@
 							</tr>
 							<tr>
 								<td>
-									<img src="img/people.png">
+									<img src="img/people2.png">
 									<p>John Doe</p>
 								</td>
-								<td>01-10-2021</td>
+								<td>03-11-2022</td>
 								<!-- <td><span class="status pending">Pending</span></td> -->
 							</tr>
 							<tr>
 								<td>
-									<img src="img/people.png">
+									<img src="img/people3.png">
 									<p>John Doe</p>
 								</td>
-								<td>01-10-2021</td>
+								<td>20-11-2022</td>
 								<!-- <td><span class="status process">Process</span></td> -->
 							</tr>
 							<tr>
 								<td>
-									<img src="img/people.png">
+									<img src="img/people4.png">
 									<p>John Doe</p>
 								</td>
-								<td>01-10-2021</td>
+								<td>15-12-2022</td>
 								<!-- <td><span class="status pending">Pending</span></td> -->
 							</tr>
 							<tr>
 								<td>
-									<img src="img/people.png">
+									<img src="img/people5.png">
 									<p>John Doe</p>
 								</td>
-								<td>01-10-2021</td>
+								<td>23-01-2023</td>
 								<!-- <td><span class="status completed">Completed</span></td> -->
 							</tr>
 						</tbody>
