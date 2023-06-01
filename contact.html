@@ -121,15 +121,19 @@
        <text>Thanks for shopping on our site!</text>
        <text>Having issues with our site? Please contact our team at <a href ="mailto: groupmarketplace@gmail.com">groupmarketplace@gmail.com</a href> and a member of our team will help resolve the issue.</text>
          
-       <div id="google_element"></div>
-       <script src="https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate"></script>
-       <script>
-         function loadGoogleTranslate(){
-         new google.translate.TranslateElement(
-           "google_element");
-  
+       <p></p>
+       <div id="google_translate_element"></div>
+       <script type="text/javascript">
+       
+         function googleTranslateElementInit() {
+         new google.translate.TranslateElement({
+           pageLanguage: 'en', layout:
+           google.translate.TranslateElement.InlineLayout.HORIZONTAL, autoDisplay: false, includedLanguages: 'fr,de,es', gaTrack: true, gaId:'YOUR_API_KEY'}, google_translate_element');
+                                               }
        }
        </script>
+       <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                              
          
          
         <p> 
