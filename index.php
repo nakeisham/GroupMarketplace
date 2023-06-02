@@ -19,6 +19,22 @@
 </head>
 
 <body>
+    <?php
+    if (isset($_GET['success'])) {
+        $successMessage = $_GET['success'];
+        // Display the success message
+        echo '<div class="alert alert-success">' . htmlspecialchars($successMessage) . '</div>';
+
+    }
+
+    if (isset($_GET['error'])) {
+        $errorMessage = $_GET['error'];
+        // Display the error message
+        echo '<div class="alert alert-danger">' . htmlspecialchars($errorMessage) . '</div>';
+
+    }
+
+    ?>
 
 
     <h1 class="text-center my-3">Upload</h1>
@@ -46,8 +62,16 @@
                 <input type="file" name="files" class="form-control">
             </div>
             <input class="btn btn-info" class="g-col-2" type="submit" name="submit" value="Upload">
-            <button class="btn btn-danger" class="g-col-2" type="button" name="done">Done</button>
+            <button class="btn btn-danger" class="g-col-2" type="button" name="done"
+                onclick="redirectToAnotherPage()">Done</button>
 
+
+            <script>
+                function redirectToAnotherPage() {
+                    // Redirect to another page
+                    window.location.href = "dashboard.php";
+                }
+            </script>
         </form>
     </div>
 

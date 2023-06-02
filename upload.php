@@ -3,56 +3,63 @@
 
 if (isset($_POST['submit']) && isset($_FILES['files']) && isset($_POST['Price']) && isset($_POST['ProductName']) && isset($_POST['Productdes']) && isset($_POST['Qty'])) {
 
-    echo "<pre>";
-    print_r($_FILES['files']);
-    echo "</pre>";
+    // echo "<pre>";
+    // print_r($_FILES['files']);
+    // echo "</pre>";
 
     include "regdatabase.php";
+    $targetDir = "img/";
+    $statusMsg = '';
     $price = $_POST['Price'];
+    $fileName = basename($_FILES["files"]["name"]);
+    $targetFilePath = $targetDir . $fileName;
+    $fileType = pathinfo($targetFilePath, PATHINFO_EXTENSION);
     $productname = $_POST['ProductName'];
     $productdes = $_POST['Productdes'];
     $qty = $_POST['Qty'];
-    $img_name = $_FILES['files']['name'];
-    $img_size = $_FILES['files']['size'];
-    $tmp_name = $_FILES['files']['tmp_name'];
-    $error = $_FILES['files']['error'];
-    $success = $_FILES['files']['success'];
 
-    if ($error === 0) {
-        if ($img_size > 125000) {
-            $em = "Sorry, your file is too large.";
-            header("Location: index.php?error=$em");
-        } else {
+    if (isset($_POST['submit']) && !empty($_FILES['files']['name'])) {
+        // Allow certain file formats
+        $types = array('jpg', 'png', 'jpeg', 'gif', 'pdf');
+        if (in_array($fileType, $types)) {
+            // Upload file to server
+            if (move_uploaded_file($_FILES["files"]["tmp_name"], $targetFilePath)) {
+                
+                // Insert image file name into database
+                
+                                $insert = $conn->query("INSERT INTO product(image, productname, productQty, price, productdesc) 
+                                VALUES('$fileName', '$productname', '$qty', '$price', '$productdes')");
+         
+                // $insert = $db->query("INSERT into images (file_name, uploaded_on) VALUES ('" . $fileName . "', NOW())");
+                if ($insert) {
+                    $statusMsg = "The file " . $fileName . " has been uploaded successfully.";
 
-            $img_ex = pathinfo($img_name, PATHINFO_EXTENSION);
-            $img_ex_lc = strtolower($img_ex);
-
-            $allowed_exs = array("jpg", "jpeg", "png");
-
-            if (in_array($img_ex_lc, $allowed_exs)) {
-                $new_img_name = uniqid("IMG-", true) . '.' . $img_ex_lc;
-                $img_upload_path = 'uploads/' . $new_img_name;
-                move_uploaded_file($tmp_name, $img_upload_path);
-
-                // Insert into Database
-                $sql = "INSERT INTO product(img,productname,qty,price,productdesc) 
-    		        VALUES('$new_img_name',$productname,$qty,$price,$productdes)";
-                mysqli_query($conn, $sql);
-                $su = "files has been uploaded";
-                header("Location: index.php?success=$su");
-
+                    // Add the success message as a query parameter in the URL
+                    header("Location: index.php?success=" . urlencode($statusMsg));
+                    exit();
+                } else {
+                    $statusMsg = "File upload failed, please try again.";
+                    header("Location: index.php?error=" . urlencode($statusMsg));
+                    exit();
+                }
             } else {
-                $em = "You can't upload files of this type";
-                header("Location: index.php?error=$em");
+                $statusMsg = "Sorry, there was an error uploading your file.";
+                header("Location: index.php?error=" . urlencode($statusMsg));
+                exit();
             }
+           
+        } else {
+            $statusMsg = "Sorry, only JPG, JPEG, PNG, GIF, & PDF files are allowed to upload.";
+            header("Location: index.php?error=" . urlencode($statusMsg));
+            exit();
         }
     } else {
-        $em = "unknown error occurred!";
-        header("Location: index.php?error=$em");
+        $statusMsg = "Please select a file to upload.";
+        header("Location: index.php?error=" . urlencode($statusMsg));
+        exit();
     }
-
-} else {
-    header("Location: index.php");
+   
 }
 
-// ?>
+
+?>
