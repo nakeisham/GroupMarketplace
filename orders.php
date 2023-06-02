@@ -18,7 +18,7 @@
     <section id="sidebar">
         <a href="#" class="brand">
             <i class="bx bxs-shopping-bags"></i>
-            <span class="text">Uni Market</span>
+            <span class="text">Gull-Mart</span>
         </a>
         <ul class="side-menu top">
             <li>
