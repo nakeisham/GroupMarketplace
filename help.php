@@ -46,6 +46,12 @@
             <span class="text">Tokens</span>
           </a>
         </li>
+        <li>
+                <a href="index.php">
+                    <i class='bx bx-upload'></i>
+                    <span class="text">Upload</span>
+                </a>
+            </li>
         <li class="active">
           <a href="help.php">
             <i class="bx bxs-help-circle"></i>
