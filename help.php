@@ -48,10 +48,11 @@
         </li>
         <li class="active">
           <a href="help.php">
-            <i class="bx bxs-coin-stack"></i>
+            <i class="bx bxs-help-circle"></i>
             <span class="text">Help</span>
           </a>
         </li>
+        
       </ul>
       <ul class="side-menu">
         <li>
