@@ -77,6 +77,7 @@
 
             <input type="checkbox" id="switch-mode" hidden />
             <label for="switch-mode" class="switch-mode"></label>
+	    <label class="brand"><i class='bx bxs-coin-stack'><span id="text">3000</span></i></label>
 
             <a href="#" class="profile">
                 <img src="img/people.png" />
