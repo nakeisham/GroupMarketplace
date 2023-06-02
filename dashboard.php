@@ -50,6 +50,12 @@
                     <span class="text">Upload</span>
                 </a>
             </li>
+            <li>
+                  <a href="help.php">
+                    <i class='bx bxs-help-circle'></i>
+                    <span class="text">Help</span>
+                  </a>
+			  </li>
         </ul>
         <ul class="side-menu">
 
